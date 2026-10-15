@@ -8,6 +8,11 @@ data/
 
 # Local config
 .env
+VPS-ACESSO.local.md
+COOLIFY-OPENGYM.local.md
+vps-acesso*.md
+*vps-acesso*
+*.local.md
 
 # Build output / deps
 frontend/dist/
