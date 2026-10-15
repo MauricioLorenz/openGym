@@ -2235,4 +2235,10 @@ export default {
   'Your sports watch, calling you back.': '你的運動手錶在叫你回來。',
   'Coach wants you back on the bar.': '教練等你回到槓鈴前。',
   'Gentle, for headphones or a quiet room.': '輕柔，適合耳機或安靜的房間。',
+  'Install openGym as an app': '將 openGym 安裝為應用程式',
+  'Full screen, its own icon, and your workouts available offline.': '全螢幕顯示、專屬圖示，運動紀錄可離線使用。',
+  'Tap Install below — it takes a second.': '點選下方的「安裝」，只需一秒鐘。',
+  'Open your browser menu and choose Install to add it.': '開啟瀏覽器選單，選擇「安裝」即可加入。',
+  'Install': '安裝',
+  'Don’t show this again': '不再顯示',
 }

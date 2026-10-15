@@ -2321,4 +2321,10 @@ export default {
   'Your sports watch, calling you back.': 'আপনার স্পোর্টস ঘড়ি আপনাকে ফিরে ডাকছে।',
   'Coach wants you back on the bar.': 'কোচ আপনাকে আবার বারে চান।',
   'Gentle, for headphones or a quiet room.': 'মৃদু, হেডফোন বা শান্ত ঘরের জন্য।',
+  'Install openGym as an app': 'openGym-কে অ্যাপ হিসেবে ইনসটল করুন',
+  'Full screen, its own icon, and your workouts available offline.': 'ফুল স্ক্রিন, নিজস্ব আইকন, আর আপনার ওয়ার্কআউট অফলাইনে ব্যবহারযোগ্য।',
+  'Tap Install below — it takes a second.': 'নিচে ইনসটল চাপুন — মাত্র এক সেকেন্ড লাগবে।',
+  'Open your browser menu and choose Install to add it.': 'ব্রাউজার মেনু খুলুন এবং যোগ করতে ইনসটল বেছে নিন।',
+  'Install': 'ইনসটল',
+  'Don’t show this again': 'আর দেখাবেন না',
 }

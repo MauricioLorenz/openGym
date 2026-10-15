@@ -1403,6 +1403,12 @@ export const PT_BR_OVERRIDES = {
   'Gentle, for headphones or a quiet room.': 'Suave, para fones de ouvido ou um lugar silencioso.',
   'Fewer than two workouts in this period. Pick a longer one.': 'Menos de dois treinos neste período. Escolha um mais longo.',
   'Releases are checked on GitHub. The download is verified against its checksum before the installer opens.': 'As versões são verificadas no GitHub. O download é conferido pela soma de verificação antes de abrir o instalador.',
+  'Install openGym as an app': 'Instalar o openGym como um app',
+  'Full screen, its own icon, and your workouts available offline.': 'Tela cheia, ícone próprio e seus treinos disponíveis offline.',
+  'Tap Install below — it takes a second.': 'Toque em Instalar abaixo — leva um segundo.',
+  'Open your browser menu and choose Install to add it.': 'Abra o menu do navegador e escolha Instalar para adicionar.',
+  'Install': 'Instalar',
+  'Don’t show this again': 'Não mostrar novamente',
 }
 
 export default { ...pt, ...PT_BR_OVERRIDES }

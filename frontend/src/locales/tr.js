@@ -2242,4 +2242,10 @@ export default {
   'Your sports watch, calling you back.': 'Spor saatin seni geri çağırıyor.',
   'Coach wants you back on the bar.': 'Koç seni bara geri bekliyor.',
   'Gentle, for headphones or a quiet room.': 'Sakin, kulaklık ya da sessiz bir oda için.',
+  'Install openGym as an app': 'openGym’i uygulama olarak yükle',
+  'Full screen, its own icon, and your workouts available offline.': 'Tam ekran, kendi simgesi ve antrenmanların çevrimdışı kullanılabilir.',
+  'Tap Install below — it takes a second.': 'Aşağıdaki Yükle düğmesine dokun, bir saniye sürer.',
+  'Open your browser menu and choose Install to add it.': 'Tarayıcı menüsünü aç ve eklemek için Yükle’yi seç.',
+  'Install': 'Yükle',
+  'Don’t show this again': 'Bir daha gösterme',
 }

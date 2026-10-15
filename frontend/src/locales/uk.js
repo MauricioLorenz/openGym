@@ -2239,4 +2239,10 @@ export default {
   'Your sports watch, calling you back.': 'Ваш спортивний годинник кличе вас назад.',
   'Coach wants you back on the bar.': 'Тренер чекає вас назад біля штанги.',
   'Gentle, for headphones or a quiet room.': 'Тихий, для навушників або спокійної кімнати.',
+  'Install openGym as an app': 'Встановити openGym як застосунок',
+  'Full screen, its own icon, and your workouts available offline.': 'На весь екран, власна іконка, тренування доступні офлайн.',
+  'Tap Install below — it takes a second.': 'Натисніть «Встановити» нижче — це займе секунду.',
+  'Open your browser menu and choose Install to add it.': 'Відкрийте меню браузера та виберіть «Встановити».',
+  'Install': 'Встановити',
+  'Don’t show this again': 'Більше не показувати',
 }

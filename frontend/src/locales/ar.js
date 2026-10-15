@@ -2297,4 +2297,10 @@ export default {
   'Your sports watch, calling you back.': 'ساعتك الرياضية تناديك للعودة.',
   'Coach wants you back on the bar.': 'المدرب يريدك أن تعود إلى البار.',
   'Gentle, for headphones or a quiet room.': 'هادئ، للسماعات أو لغرفة هادئة.',
+  'Install openGym as an app': 'ثبّت openGym كتطبيق',
+  'Full screen, its own icon, and your workouts available offline.': 'ملء الشاشة، أيقونة خاصة، وتمارينك متاحة دون اتصال.',
+  'Tap Install below — it takes a second.': 'اضغط «tثبيت» أدناه — يستغرق ثانية واحدة.',
+  'Open your browser menu and choose Install to add it.': 'افتح قائمة المتصفح واختر «تثبيت» لإضافته.',
+  'Install': 'تثبيت',
+  'Don’t show this again': 'عدم العرض مجدداً',
 }

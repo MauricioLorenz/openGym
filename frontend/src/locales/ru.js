@@ -2246,4 +2246,10 @@ export default {
   'Your sports watch, calling you back.': 'Ваши спортивные часы зовут вас обратно.',
   'Coach wants you back on the bar.': 'Тренер ждёт вас обратно у штанги.',
   'Gentle, for headphones or a quiet room.': 'Тихий, для наушников или спокойного зала.',
+  'Install openGym as an app': 'Установить openGym как приложение',
+  'Full screen, its own icon, and your workouts available offline.': 'Во весь экран, своя иконка, тренировки доступны офлайн.',
+  'Tap Install below — it takes a second.': 'Нажмите «Установить» ниже — это займёт секунду.',
+  'Open your browser menu and choose Install to add it.': 'Откройте меню браузера и выберите «Установить».',
+  'Install': 'Установить',
+  'Don’t show this again': 'Больше не показывать',
 }

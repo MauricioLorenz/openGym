@@ -2253,4 +2253,10 @@ export default {
   'Your sports watch, calling you back.': 'นาฬิกาสปอร์ตเรียกคุณกลับมาแล้ว',
   'Coach wants you back on the bar.': 'โค้ชอยากให้คุณกลับมาที่บาร์',
   'Gentle, for headphones or a quiet room.': 'เบา ๆ สำหรับหูฟังหรือห้องที่เงียบ',
+  'Install openGym as an app': 'ติดตั้ง openGym เป็นแอป',
+  'Full screen, its own icon, and your workouts available offline.': 'เต็มจอ ไอคอนของตัวเอง และการออกกำลังใช้แบบออฟไลน์ได้',
+  'Tap Install below — it takes a second.': 'แตะติดตั้งด้านลลา่าง ใช้เวลาาแค่1วินาที',
+  'Open your browser menu and choose Install to add it.': 'เปิดเมนูเบราวเซอร์แล้วเลือกติดตั้งเพื่อเพิ่มแอป',
+  'Install': 'ติดตั้ง',
+  'Don’t show this again': 'ไม่ต้องแสงอีกอีก',
 }

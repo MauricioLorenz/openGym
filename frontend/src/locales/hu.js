@@ -2245,4 +2245,10 @@ export default {
   'Your sports watch, calling you back.': 'A sportórád visszahív.',
   'Coach wants you back on the bar.': 'Az edző visszavár a rúdhoz.',
   'Gentle, for headphones or a quiet room.': 'Halk, fülhallgatóhoz vagy csendes helyre.',
+  'Install openGym as an app': 'Az openGym telepítése appként',
+  'Full screen, its own icon, and your workouts available offline.': 'Teljes képernyő, saját ikon, az edzések offline is elérhetők.',
+  'Tap Install below — it takes a second.': 'Koppints a Telepítés gombra — csak egy pillanat.',
+  'Open your browser menu and choose Install to add it.': 'Nyisd meg a böngésző menüjét, és válaszd a Telepítés menüpontot.',
+  'Install': 'Telepítés',
+  'Don’t show this again': 'Ne mutassa többé',
 }

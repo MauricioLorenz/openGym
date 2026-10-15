@@ -2242,4 +2242,10 @@ export default {
   'Your sports watch, calling you back.': '你的运动手表在叫你回来。',
   'Coach wants you back on the bar.': '教练等你回到杠铃前。',
   'Gentle, for headphones or a quiet room.': '轻柔，适合耳机或安静的房间。',
+  'Install openGym as an app': '将 openGym 安装为应用',
+  'Full screen, its own icon, and your workouts available offline.': '全屏显示、独立图标，锻炼记录可离线使用。',
+  'Tap Install below — it takes a second.': '点击下方的“安装”，只需一秒钟。',
+  'Open your browser menu and choose Install to add it.': '打开浏览器菜单，选择“安装”即可添加。',
+  'Install': '安装',
+  'Don’t show this again': '不再显示',
 }

@@ -27,6 +27,8 @@ import SyncBanner from './components/SyncBanner.jsx'
 import RestTimer from './components/RestTimer.jsx'
 import TimerFlash from './components/TimerFlash.jsx'
 import { openDeviceLinkRedeem } from './components/Passkeys.jsx'
+import { openInstallPrompt } from './components/InstallPrompt.jsx'
+import { shouldOfferInstall, markInstallOffered } from './lib/install.js'
 import Login from './views/Login.jsx'
 import MobileOnboarding from './views/MobileOnboarding.jsx'
 import Home from './views/Home.jsx'
@@ -143,6 +145,15 @@ function Shell() {
     linkOffered.current = true
     openDeviceLinkRedeem()
   }, [ready, linkCode])
+  // Signed in on a browser that is not the installed app: one sheet per sign-in
+  // saying openGym installs as an app (desktop, iOS, Android). Guests skip it —
+  // there is no profile to remember the opt-out against.
+  useEffect(() => {
+    if (!ready || !user?.id || isGuest) return
+    if (!shouldOfferInstall(user.id)) return
+    markInstallOffered(user.id)
+    openInstallPrompt(user.id)
+  }, [ready, user?.id, isGuest])
   useEffect(() => {
     const onScroll = () => {
       // Modals pins the body while a sheet is open; scrollY is 0 then, not a position.

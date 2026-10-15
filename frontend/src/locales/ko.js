@@ -2242,4 +2242,10 @@ export default {
   'Your sports watch, calling you back.': '스포츠 시계가 다시 부르고 있어요.',
   'Coach wants you back on the bar.': '코치가 바 앞으로 돌아오래요.',
   'Gentle, for headphones or a quiet room.': '이어폰이나 조용한 곳에 어울려요.',
+  'Install openGym as an app': 'openGym을 앱으로 설치',
+  'Full screen, its own icon, and your workouts available offline.': '전체 화면, 전용 아이콘, 운동 기록을 오프라인에서도 이용.',
+  'Tap Install below — it takes a second.': '아래 설치를 누르세요. 1초면 됩니다.',
+  'Open your browser menu and choose Install to add it.': '브라우저 메뉴를 열고 설치를 선택하세요.',
+  'Install': '설치',
+  'Don’t show this again': '다시 표시하지 않기',
 }

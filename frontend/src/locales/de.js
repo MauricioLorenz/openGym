@@ -2262,4 +2262,10 @@ export default {
   'Your sports watch, calling you back.': 'Deine Sportuhr ruft dich zurück.',
   'Coach wants you back on the bar.': 'Der Coach will dich zurück an der Stange.',
   'Gentle, for headphones or a quiet room.': 'Leise, für Kopfhörer oder einen ruhigen Raum.',
+  'Install openGym as an app': 'openGym als App installieren',
+  'Full screen, its own icon, and your workouts available offline.': 'Vollbild, eigenes Icon und deine Workouts offline verfügbar.',
+  'Tap Install below — it takes a second.': 'Tippe unten auf Installieren — das dauert nur eine Sekunde.',
+  'Open your browser menu and choose Install to add it.': 'Öffne das Browsermenü und wähle Installieren, um die App hinzuzufügen.',
+  'Install': 'Installieren',
+  'Don’t show this again': 'Nicht mehr anzeigen',
 }
